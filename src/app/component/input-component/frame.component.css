@@ -1,0 +1,19 @@
+.line {
+  background-color: rgb(122, 245, 129);
+  height: 50px;
+}
+
+.head {
+  background-color: rgb(122, 245, 129);
+  height: 8vh;
+}
+
+.read-comment {
+  background-color: rgb(198, 243, 200);
+  height: 80vh;
+}
+
+.writer-comment {
+  background-color: aqua;
+  height: 12vh;
+}
